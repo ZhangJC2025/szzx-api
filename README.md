@@ -17,4 +17,4 @@ Windows用户运行`start.bat`
 
 如何查看是否运行成功:
 
-在`cmd`中输入`curl https://your_website/page0 -k`或者`curl http://your_website/page0`
+在`cmd`中输入`curl http://your_domain/page0`
