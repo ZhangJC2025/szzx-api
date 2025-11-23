@@ -18,3 +18,5 @@ Windows用户运行`start.bat`
 如何查看是否运行成功:
 
 在`cmd`中输入`curl http://your_domain/page0`
+
+默认8000端口 **建议使用nginx代理**
